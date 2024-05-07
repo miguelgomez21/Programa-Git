@@ -1,3 +1,0 @@
-https://github.com/DIEGOBETAN18/EjemploServlets.git
-https://github.com/DIEGOBETAN18/EjemploFormServlest.git
-https://github.com/DIEGOBETAN18/EjemploJsp.git
